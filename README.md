@@ -1,2 +1,2 @@
-# Manipulator_Inverse_Cinematics
+# Manipulator_Inverse_Kinematics
 Projekt_Robotyka
